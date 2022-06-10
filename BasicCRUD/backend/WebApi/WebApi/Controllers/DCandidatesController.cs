@@ -112,7 +112,8 @@ namespace WebApi.Controllers
                 return NotFound();
             }
 
-            _context.dCandidates.Remove(dCandidate);
+            _context.Entry(dCandidate).State = EntityState.Deleted;
+            //_context.dCandidates.Remove(dCandidate);
             await _context.SaveChangesAsync();
 
             return NoContent();

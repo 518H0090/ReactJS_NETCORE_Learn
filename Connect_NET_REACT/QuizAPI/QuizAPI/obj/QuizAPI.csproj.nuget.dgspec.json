@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ReactJS_NETCORE\\Quiz_MUI\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {}
+    "D:\\ReactJS_NETCORE\\Connect_NET_REACT\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {}
   },
   "projects": {
-    "D:\\ReactJS_NETCORE\\Quiz_MUI\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {
+    "D:\\ReactJS_NETCORE\\Connect_NET_REACT\\QuizAPI\\QuizAPI\\QuizAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ReactJS_NETCORE\\Quiz_MUI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+        "projectUniqueName": "D:\\ReactJS_NETCORE\\Connect_NET_REACT\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
         "projectName": "QuizAPI",
-        "projectPath": "D:\\ReactJS_NETCORE\\Quiz_MUI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+        "projectPath": "D:\\ReactJS_NETCORE\\Connect_NET_REACT\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
         "packagesPath": "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\",
-        "outputPath": "D:\\ReactJS_NETCORE\\Quiz_MUI\\QuizAPI\\QuizAPI\\obj\\",
+        "outputPath": "D:\\ReactJS_NETCORE\\Connect_NET_REACT\\QuizAPI\\QuizAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

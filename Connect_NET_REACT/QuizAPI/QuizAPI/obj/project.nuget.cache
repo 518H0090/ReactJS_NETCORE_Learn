@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SyfntvhrOkeOVnZUSsQaGUpd4h3bgBgITL7sTrbwQEOW6u2mriLeZb4c9/hO53wiVOe+LkuvyCYUok9nYJ93iQ==",
+  "dgSpecHash": "g+tLC4eY2zDOW7aNq/f5BWZ1UHE/GLRUa/a4hylvlk8CTZhVtJZvGIbiS5cKmHdsK9K1QHG3PKWkrjE3hUsM3w==",
   "success": true,
-  "projectFilePath": "D:\\ReactJS_NETCORE\\Quiz_MUI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+  "projectFilePath": "D:\\ReactJS_NETCORE\\Connect_NET_REACT\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TRUNG HIEU PC3\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
