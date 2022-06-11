@@ -65,8 +65,8 @@ export default function Employee(props) {
     e.preventDefault();
     if (validate()) {
       const formData = new FormData();
-      formData.append("EmployeeId", values.employeeId);
-      formData.append("EmployeeName", values.employeeName);
+      formData.append("employeeId", values.employeeId);
+      formData.append("employeeName", values.employeeName);
       formData.append("occupation", values.occupation);
       formData.append("imageName", values.imageName);
       formData.append("imageFile", values.imageFile);
