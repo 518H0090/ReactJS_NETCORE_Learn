@@ -1,0 +1,2 @@
+Bcrypt.Net-Next - Hashpassword
+System.IdentityModel.Tokens.Jwt - JWT
